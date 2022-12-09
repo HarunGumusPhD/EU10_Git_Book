@@ -2,3 +2,6 @@ this is my page 6
 
 
 ok...
+
+
+editor: java is cool
